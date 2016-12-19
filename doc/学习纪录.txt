@@ -3,10 +3,13 @@
 1.用git更新GitHub的远程仓库，需要邮箱和用户和一些其他命令：
  git config --global user.email "1171489857@qq.com"
  git config --global user.name "JokerIsol"
- 
+
+ git rm -r --cached.
  git add -A
 
- git add -A
-
- git commit -m “做了何种修改”
+ git commit -m "做了何种修改"
  git push
+
+2.个人git常用命令
+
+cd "d://JOKER/GitLearn"
